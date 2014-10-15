@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<us_states>
+
+<state id="background_color">
+	<opacity>0</opacity>
+</state>
+
+<state id="default_color">
+	<color>cccccc</color>
+</state>
+
+<state id="range">
+     <data>1 - 10</data>
+     <color>999999</color>
+</state>
+	
+<state id="outline_color">
+	<color>777777</color>
+</state>
+
+<state id="default_point">
+		<color>ff0000</color>
+		<size>7</size>
+</state>
+
+<state id="scale_points">
+		<data>25</data>
+</state>
+
+	<state id="zoom_out_button">
+		<name>Zoom Out</name>
+		<data>SE</data>
+		<font_size>14</font_size>
+		<font_color>ffffff</font_color>
+		<background_color>000000</background_color>
+	</state>
+
+<state id="hover">
+		<font_size>14</font_size>
+		<font_color>ffffff</font_color>
+		<background_color>000000</background_color>
+	</state>
+	
+
+<state id="point">
+	<name>West Memphis, AR</name>
+	<loc>35.14670, -90.17670</loc>
+	<url>truck_school_WESTMEMPHIS.php</url>
+</state>
+
+<state id="point">
+	<name>Fontana, CA</name>
+	<loc>34.0922, -117.4342</loc>
+	<url>truck_school_fontanaCalifornia.php</url>
+</state>
+
+<state id="point">
+	<name>Jacksonville,FL</name>
+	<loc>30.32890, -81.66170</loc>
+	<url>truck_school_JACKSONVILLE.php</url>
+</state>
+
+<state id="point">
+	<name>Orlando, FL</name>
+	<loc>28.54500,  -81.37720</loc>
+	<url>truck_school_ORLANDO.php</url>
+</state>
+
+<state id="point">
+	<name>Tampa, FL</name>
+	<loc>27.94940, -82.45690</loc>
+	<url>truck_school_TAMPA.php</url>
+</state>
+
+<state id="point">
+	<name>Indianapolis, IN</name>
+	<loc>39.76860, -86.16280</loc>
+	<url>truck_school_INDIANA.php</url>
+</state>
+
+<state id="point">
+	<name>Dunn, NC</name>
+	<loc>35.3061, -78.6092</loc>
+	<url>truck_school_northcarolina.php</url>
+</state>
+
+<state id="point">
+	<name>Columbus, OH</name>
+	<loc>39.9611, -82.9989</loc>
+	<url>truck_school_OHIO.php</url>
+</state>
+
+<state id="point">
+	<name>Tulsa, OK</name>
+	<loc>36.15330, -95.99280</loc>
+	<url>truck_school_Tulsa.php</url>
+</state>
+
+<state id="point">
+	<name>Chattanooga, TN</name>
+	<loc>35.04470, -85.30890</loc>
+	<url>truck_school_Tulsa.php</url>
+</state>
+
+<state id="point">
+	<name>San Antonio, TX</name>
+	<loc>29.42690, -98.48500</loc>
+	<url>truck_school_SANANTONIO.php</url>
+</state>
+
+<state id="point">
+	<name>Salt Lake City, UT</name>
+	<loc>40.75640, -111.89100</loc>
+	<url>truck_school_SaltLake.php</url>
+</state>
+
+	
+<state id="AR">
+	<name>Arkansas</name>
+</state>
+<state id="CA">
+	<name>California</name>
+</state>
+<state id="FL">
+	<name>Florida</name>
+</state>
+<state id="IN">
+	<name>Indiana</name>
+</state>
+<state id="NC">
+	<name>North Carolina</name>
+</state>
+<state id="OH">
+	<name>Ohio</name>
+</state>
+<state id="OK">
+	<name>Oklahoma</name>
+</state>
+<state id="TN">
+	<name>Tennessee</name>
+</state>
+<state id="TX">
+	<name>Texas</name>
+</state>
+<state id="UT">
+	<name>Utah</name>
+</state>
+</us_states>
